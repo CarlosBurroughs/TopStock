@@ -1,0 +1,13 @@
+Project Background:
+
+Over the past couple years my fascination with the stock market has grown at an exponential rate. 
+In the past I have had problems finding stocks that are doing well in a short term, because I am 
+really interested in investing in the stock market - short term - and I am also interested in investing 
+long term. However, I have been unable to do so and wish to create an application that will help 
+me with these two.
+
+Project Description:
+
+The project is called TopStock - an Android application - and it is going to display real time data of 
+all stocks and users will be able to sort the data by market cap, price, change in the last 24 hours/or 
+day/or month/or year. Finally, they will be able to view graphs of each stock and their past growth. 
